@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.oppodelldog.testplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.oppodelldog.testplugin.MyBundle
 
 class MyApplicationService {
 
